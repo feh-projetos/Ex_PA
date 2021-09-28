@@ -2,7 +2,7 @@ Algoritmo "aumento de funcioanrio"
 // Disciplina   : [PA]
 // Professor   :cinia pinho
 // Descrição   : calcula o imposto de renda (função)
-// Autor(a)    :isadora walesca alves duarte
+// Autor(a)    :Fernanda Fernandes
 // Data atual  : 27/09/2021
 Var
 salario,resp:real
